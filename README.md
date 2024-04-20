@@ -37,13 +37,15 @@ First, let's start with a simple example and write an array of natural numbers.
 ![image](https://github.com/iandi2002/Rust_/assets/79205166/1756ec68-543e-48bc-a3a5-3c6294c1e465)
 
 You can see that all the sorting methods work correctly, and all have the same result.
+
 ![image](https://github.com/iandi2002/Rust_/assets/79205166/7d0f1544-46fe-463e-8c48-de0d38b785fb)
 
 
 
-
+Now the screenshot shows an example of a different number order.
 ![image](https://github.com/iandi2002/Rust_/assets/79205166/6018eb82-0e85-4e49-888a-6d22dfb58559)
 
+In this example, the answers are also displayed correctly.
 
 ![image](https://github.com/iandi2002/Rust_/assets/79205166/2b4b35ca-9556-4b2e-aa20-54916595e88a)
 
