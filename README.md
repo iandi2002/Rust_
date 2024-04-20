@@ -29,9 +29,14 @@ Quick sort is an efficient sorting algorithm that also uses the principle of "di
 Selection sorting is a simple sorting algorithm that finds the minimum element in a list and exchanges it with the first element, then finds the next minimum element and exchanges it with the second element, and so on until the entire list is sorted.
 
 
+### **Usage**
+Below are examples of using the code.
 
+
+First, let's start with a simple example and write an array of natural numbers.
 ![image](https://github.com/iandi2002/Rust_/assets/79205166/1756ec68-543e-48bc-a3a5-3c6294c1e465)
 
+You can see that all the sorting methods work correctly, and all have the same result.
 ![image](https://github.com/iandi2002/Rust_/assets/79205166/7d0f1544-46fe-463e-8c48-de0d38b785fb)
 
 
