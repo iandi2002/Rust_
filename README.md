@@ -51,26 +51,38 @@ The same correct answer for all methods.
 
 
 ### **Examples**
+Some code snippets will be shown below and their importance will be described in detail.
 
 #### **Bubble Sort**
 
 Bubble sorting is a simple sorting algorithm that iterates through a list, comparing pairs of adjacent items and swapping them if they are in the wrong order. This process continues until the list is sorted.
 
-### **Insertion Sort**
+![image](https://github.com/iandi2002/Rust_/assets/79205166/f3ec338b-0486-428a-985b-20f112e363b1)
+
+
+#### **Insertion Sort**
 
 Insertion sorting is a sorting algorithm that goes through a list of elements, alternately moving each element to its correct position. During each iteration, the algorithm takes another element and inserts it into the sorted part of the list.
+![image](https://github.com/iandi2002/Rust_/assets/79205166/f8680f64-2267-4e10-a2ca-c7e81b450d66)
 
-### **Merge Sort**
+
+#### **Merge Sort**
 
 Merge sorting is an efficient sorting algorithm that uses the principle of "divide and conquer". It splits the list into two equal parts, recursively sorts each part, and then merges them together into a sorted list.
+![image](https://github.com/iandi2002/Rust_/assets/79205166/a2579d5e-1132-4910-b1d7-698b624cd6aa)
 
-### **Quick Sort**
+
+#### **Quick Sort**
 
 Quick sort is an efficient sorting algorithm that also uses the principle of "divide and conquer". It selects a reference element from the list, splits the list into two parts around that element, recursively sorts each part and merges them together.
+![image](https://github.com/iandi2002/Rust_/assets/79205166/da284b45-a7df-4846-b164-aa886c020e76)
 
-### **Selection Sort**
+
+#### **Selection Sort**
 
 Selection sorting is a simple sorting algorithm that finds the minimum element in a list and exchanges it with the first element, then finds the next minimum element and exchanges it with the second element, and so on until the entire list is sorted.
+![image](https://github.com/iandi2002/Rust_/assets/79205166/8a02d148-9f6e-46d1-b844-3418054c7d36)
+
 
 
 
