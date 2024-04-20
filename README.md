@@ -84,6 +84,17 @@ Selection sorting is a simple sorting algorithm that finds the minimum element i
 ![image](https://github.com/iandi2002/Rust_/assets/79205166/8a02d148-9f6e-46d1-b844-3418054c7d36)
 
 
+#### **Connecting**
+These methods are prescribed in lib.rs
+
+![image](https://github.com/iandi2002/Rust_/assets/79205166/5ef6d00a-bc93-4d93-b436-64110b84a117)
+
+Adding the possibility of using these methods in main.rs
+
+![image](https://github.com/iandi2002/Rust_/assets/79205166/f2476395-1cac-4fbd-85ab-bc09374059e5)
+
+
+
 
 
 
