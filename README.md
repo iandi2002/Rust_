@@ -50,16 +50,20 @@ In this example, the answers are also displayed correctly.
 ![image](https://github.com/iandi2002/Rust_/assets/79205166/2b4b35ca-9556-4b2e-aa20-54916595e88a)
 
 
-
-![image](https://github.com/iandi2002/Rust_/assets/79205166/a7fc21e8-2d54-4441-840a-1cafecce6859)
+An example of using negative numbers.
 
 ![image](https://github.com/iandi2002/Rust_/assets/79205166/92bad379-8265-494e-a39e-655fc172e5e5)
 
+All methods sorted the numbers without errors.
+![image](https://github.com/iandi2002/Rust_/assets/79205166/a7fc21e8-2d54-4441-840a-1cafecce6859)
 
 
+
+
+This example shows how sorting methods sort an array that contains duplicate numbers and a zero.
 ![image](https://github.com/iandi2002/Rust_/assets/79205166/f15a4cd9-2418-4eae-b94d-2d1f5cae9777)
 
-
+The same correct answer for all methods.
 ![image](https://github.com/iandi2002/Rust_/assets/79205166/c3c93027-dd73-499a-b660-11168289ee71)
 
 
